@@ -1,8 +1,9 @@
-- Ciao! Alessio here, nice to meet you! 👋
+ Ciao! Alessio here, nice to meet you! 👋
+
 - 🧑🏻‍💻UX/UI Designer📲
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌊🏄🏻‍♂️Kitesurfer
+- 🌍 World as Home
+- 🔥 Proudly synesthetic
 
 <!---
 Ale9633/Ale9633 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
