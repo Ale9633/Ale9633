@@ -1,6 +1,6 @@
  Ciao! Alessio here, nice to meet you! 👋
 
-- 🧑🏻‍💻UX/UI Designer📲
+- 🧑🏻‍💻UX/UI Designer from Italy🇮🇹
 - 🌊🏄🏻‍♂️Kitesurfer
 - 🌍 World as Home
 - 🔥 Proudly synesthetic
