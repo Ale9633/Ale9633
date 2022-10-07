@@ -1,1 +1,1 @@
-![Github banner](https://user-images.githubusercontent.com/91788111/194591639-78b16baa-e19c-4790-a6fc-283461ed457a.gif)
+![LinkedIn Banner (Blockchain) (1)](https://user-images.githubusercontent.com/91788111/194595663-368fab24-696a-43bd-898c-0a9ca59a9caf.png)
