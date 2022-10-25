@@ -1,7 +1,10 @@
-<h1>Hi there 👋, Alessio here!</h1>
-<h3>Enthusiastic Blockchain Development Student | Web3, Solidity, Smart-contract, NFT</h3>
-
 ![LinkedIn Banner (Blockchain) (1)](https://user-images.githubusercontent.com/91788111/197777541-1bc92d1b-6be0-4272-b7a9-dd3f3ec83f5e.png)
+
+<h1>Hi there 👋 </br>Alessio here!<p align="right">
+<a href="https://www.linkedin.com/in/alessio-nava/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91788111/197795996-66645d80-e388-4b51-85fe-0080f1d5373c.svg" alt="linkedin.com/in/alessio-nava" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_novalex_/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91788111/197796297-74a23050-ba50-4611-b04e-f77aa6e6ebfc.svg" alt="https://www.instagram.com/_novalex_/" height="30" width="40" /></a>
+<a href="https://twitter.com/novalex__" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91788111/197796208-449bd39f-887e-4958-9a2b-ab939bef18cb.svg" alt="novalex__" height="30" width="40" /></a></p></h1>
+<h3>Enthusiastic Blockchain Development Student | Web3, Solidity, Smart-contract, NFT</h3>
 
 - 🔭 I’m currently studying on **Start2impact University**
 
