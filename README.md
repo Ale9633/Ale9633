@@ -19,35 +19,6 @@ To achieve the goal of making the web a better place, I trust teamwork, the late
 🧑🏻‍💻 On a typical day you can find me enthusiastically designing a Dapp or writing the code of a Smart Contract in Solidity, in the company of good music and a cup of tea (which is never one) ...
 And when I notice that the row of cups gets longer, I love surfing, skiing, traveling, reading, practicing yoga and playing chess. 🗺️
 
-________________________
-
-⬇️ You might be interested in taking a peek at my works. I leave you some links:
-
-GITHUB PROJECTS: ► https://github.com/Ale9633?tab=repositories ◄
-</br>
-WEBSITE: ► https://ale9633.github.io/alessionava.com/ ◄
-
-________________________
-
-I am waiting for you to talk a little about Blockchain and Web3: it would delight me very much to help you! 🙏
-</br>***Ale***</p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/alessio-nava/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91788111/197795996-66645d80-e388-4b51-85fe-0080f1d5373c.svg" alt="linkedin.com/in/alessio-nava" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_novalex_/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91788111/197796297-74a23050-ba50-4611-b04e-f77aa6e6ebfc.svg" alt="https://www.instagram.com/_novalex_/" height="30" width="40" /></a>
-<a href="https://twitter.com/novalex__" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91788111/197796208-449bd39f-887e-4958-9a2b-ab939bef18cb.svg" alt="novalex__" height="30" width="40" /></a></p>
-
-
-
-
-
-
-
-
-
-
 </br>
 <h2 align="left">Skills:</h2>
 <h3 align="left">Blockchain:</h3>
@@ -94,3 +65,24 @@ I am waiting for you to talk a little about Blockchain and Web3: it would deligh
 <p>
 <img src="https://user-images.githubusercontent.com/91788111/197811431-0ba6665e-fd4b-4499-b500-cabf331136a9.svg" alt="git logo" width="80" height="80"/>
 </p>
+</br>
+
+________________________
+
+⬇️ You might be interested in taking a peek at my works. I leave you some links:
+
+GITHUB PROJECTS: ► https://github.com/Ale9633?tab=repositories ◄
+</br>
+WEBSITE: ► https://ale9633.github.io/alessionava.com/ ◄
+
+________________________
+
+I am waiting for you to talk a little about Blockchain and Web3: it would delight me very much to help you! 🙏
+</br>***Ale***</p>
+
+
+</br></br>
+<p align="left">
+<a href="https://www.linkedin.com/in/alessio-nava/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91788111/197795996-66645d80-e388-4b51-85fe-0080f1d5373c.svg" alt="linkedin.com/in/alessio-nava" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_novalex_/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91788111/197796297-74a23050-ba50-4611-b04e-f77aa6e6ebfc.svg" alt="https://www.instagram.com/_novalex_/" height="30" width="40" /></a>
+<a href="https://twitter.com/novalex__" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91788111/197796208-449bd39f-887e-4958-9a2b-ab939bef18cb.svg" alt="novalex__" height="30" width="40" /></a></p>
