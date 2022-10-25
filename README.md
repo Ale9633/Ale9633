@@ -55,10 +55,10 @@ I am waiting for you to talk a little about Blockchain and Web3: it would deligh
 <img src="https://user-images.githubusercontent.com/91788111/197836103-0d0ecba7-083b-4f21-b4be-9b9856b41f6d.svg" alt="ethereum logo" width="80" height="80"/>
 <img src="https://user-images.githubusercontent.com/91788111/197835644-3e94f268-d529-4bbb-95ec-4df0fa996261.svg" alt="solidity logo" width="80" height="80"/>
 <img src="https://user-images.githubusercontent.com/91788111/197837026-312bcc9e-672f-48ab-b390-76b9ec7dcd65.svg" alt="web3js logo" width="80" height="80"/>
+  <img src="https://user-images.githubusercontent.com/91788111/197840403-21ee3724-e44f-4c6d-8020-2b85f60af6e5.svg" alt="metamask logo" width="80" height="80"/>
 <img src="https://user-images.githubusercontent.com/91788111/197839079-4de5aaae-7f00-436d-9349-900ccc05568e.svg" alt="truffle logo" width="80" height="80"/>
 <img src="https://user-images.githubusercontent.com/91788111/197839256-9dd264e3-ac7b-4dda-ba90-cab2879f45e9.svg" alt="ganache logo" width="80" height="80"/>
 <img src="https://user-images.githubusercontent.com/91788111/197839324-b28fd8b0-c1c7-4d7f-9372-f4102828676a.svg" alt="drizzle logo" width="80" height="80"/>
-<img src="https://user-images.githubusercontent.com/91788111/197840403-21ee3724-e44f-4c6d-8020-2b85f60af6e5.svg" alt="metamask logo" width="80" height="80"/>
 </p>
 <h3 align="left">Frontend:</h3>
 <p>
