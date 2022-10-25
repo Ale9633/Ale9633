@@ -81,7 +81,7 @@ I am waiting for you to talk a little about Blockchain and Web3: it would deligh
 </br>***Ale***</p>
 
 
-</br></br>
+</br>
 <p align="left">
 <a href="https://www.linkedin.com/in/alessio-nava/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91788111/197795996-66645d80-e388-4b51-85fe-0080f1d5373c.svg" alt="linkedin.com/in/alessio-nava" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_novalex_/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91788111/197796297-74a23050-ba50-4611-b04e-f77aa6e6ebfc.svg" alt="https://www.instagram.com/_novalex_/" height="30" width="40" /></a>
