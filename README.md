@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Alessio</h1>
 <h3 align="center">Enthusiastic Blockchain Development Student | Web3, Solidity, Smart-contract, NFT</h3>
 
-<p align="left"> <a href="https://twitter.com/novalex__" target="blank"><img src="https://img.shields.io/twitter/follow/novalex__?logo=twitter&style=for-the-badge" alt="novalex__" /></a> </p>
-
 - 🔭 I’m currently studying on **Start2impact University**
 
 - 📫 How to reach me **alessionava7@gmail.com**
@@ -19,9 +17,32 @@
 
 
 
+
+
+
+
+
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91788111/197788151-a76481a7-a62f-424e-8035-1abc9b5df788.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91788111/197793854-a419c00a-c43b-48ea-936e-3c632b41c157.svg" alt="html5" width="100" height="100"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91788111/197788750-3632eb17-8171-4121-b039-1673e08ee349.svg" alt="figma" width="40" height="40"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://metamask.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91788111/197785357-380ecf62-0e4a-46c9-be06-b76518a89a9c.png" alt="invision" width="40" height="40"/> </a></p>
-
-
-
-
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91788111/197811066-e9f87c17-0ed2-4a2d-b44d-c731649b7c11.svg" alt="bootstrap logo" width="80" height="80"/> </a> 
+<img src="https://user-images.githubusercontent.com/91788111/197833240-a89aa1fa-f43d-4ca2-987a-f92defb3b13d.svg" alt="html5 logo" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/91788111/197833132-bc7dbc84-355b-4366-90a8-b1db64d20aa6.svg" alt="css3 logo" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/91788111/197820712-72cbe91f-5f5f-4174-ad9d-9a5692fa7432.svg" alt="javascript logo" width="80" height="80"/> 
+<img src="https://user-images.githubusercontent.com/91788111/197812039-78a9acd4-d7a7-404a-987c-4f04ef273b09.svg" alt="django logo" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/91788111/197811431-0ba6665e-fd4b-4499-b500-cabf331136a9.svg" alt="git logo" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/91788111/197820141-0e1c1541-7ee3-4224-814a-ef8a9feade4f.svg" alt="invision logo" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/91788111/197826296-2610ecde-5dfc-491c-8e69-6ee2287fc0bd.svg" alt="mongodb logo" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/91788111/197818624-277cb9c4-252a-4c59-b76b-2a47950e20c6.svg" alt="illustrator logo" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/91788111/197826945-bdc96954-df5d-4636-9b1e-ff59c5137594.svg" alt="photoshop logo" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/91788111/197827217-d480d3a7-e2e1-4654-a7f8-3beb2f29b24b.svg" alt="indesign logo" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/91788111/197827135-235a5598-cb83-4db8-91b1-018d3186112a.svg" alt="after effect logo" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/91788111/197830985-f2378b12-c5e6-4487-afe6-ac67a9119ff7.svg" alt="figma logo" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/91788111/197832451-e45509f3-f5a3-461a-b407-43f116bf4fae.svg" alt="python logo" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/91788111/197834381-1a7137c9-9b0a-4b1e-aecd-0dd209851e79.svg" alt="redis logo" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/91788111/197835644-3e94f268-d529-4bbb-95ec-4df0fa996261.svg" alt="solidity logo" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/91788111/197836103-0d0ecba7-083b-4f21-b4be-9b9856b41f6d.svg" alt="ethereum logo" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/91788111/197837026-312bcc9e-672f-48ab-b390-76b9ec7dcd65.svg" alt="web3js logo" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/91788111/197839079-4de5aaae-7f00-436d-9349-900ccc05568e.svg" alt="truffle logo" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/91788111/197839256-9dd264e3-ac7b-4dda-ba90-cab2879f45e9.svg" alt="ganache logo" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/91788111/197839324-b28fd8b0-c1c7-4d7f-9372-f4102828676a.svg" alt="drizzle logo" width="80" height="80"/>
+<img src="https://user-images.githubusercontent.com/91788111/197840403-21ee3724-e44f-4c6d-8020-2b85f60af6e5.svg" alt="metamask logo" width="80" height="80"/>
