@@ -1,6 +1,6 @@
 ![LinkedIn Banner (Blockchain) (1)](https://user-images.githubusercontent.com/91788111/197777541-1bc92d1b-6be0-4272-b7a9-dd3f3ec83f5e.png)
 
-<h1 align="center">Hi 👋, I'm Alessio</h1>
+<h1 align="center">Hi there 👋, I'm Alessio</h1>
 <h3 align="center">Enthusiastic Blockchain Development Student | Web3, Solidity, Smart-contract, NFT</h3>
 
 - 🔭 I’m currently studying on **Start2impact University**
