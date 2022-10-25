@@ -11,9 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/alessio-nava" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91788111/197787671-e5cbb559-795f-46bb-9a78-4b16f3a48d5b.svg" alt="linkedin.com/in/alessio-nava" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_novalex_/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91788111/197787352-adfd519e-2f59-4a71-976e-bf5a5cd18fb4.svg" alt="https://www.instagram.com/_novalex_/" height="30" width="40" /></a>
-<a href="https://twitter.com/novalex__" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91788111/197787750-ab225eda-adce-4a3c-805b-5b61229fd39c.svg" alt="novalex__" height="30" width="40" /></a></p>
+<a href="https://www.linkedin.com/in/alessio-nava/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91788111/197795996-66645d80-e388-4b51-85fe-0080f1d5373c.svg" alt="linkedin.com/in/alessio-nava" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_novalex_/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91788111/197796297-74a23050-ba50-4611-b04e-f77aa6e6ebfc.svg" alt="https://www.instagram.com/_novalex_/" height="30" width="40" /></a>
+<a href="https://twitter.com/novalex__" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91788111/197796208-449bd39f-887e-4958-9a2b-ab939bef18cb.svg" alt="novalex__" height="30" width="40" /></a></p>
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
