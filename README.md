@@ -71,9 +71,9 @@ ________________________
 
 ⬇️ You might be interested in taking a peek at my works. I leave you some links:
 
-GITHUB PROJECTS: ► https://github.com/Ale9633?tab=repositories ◄
-</br>
 WEBSITE: ► https://ale9633.github.io/alessionava.com/ ◄
+</br>
+GITHUB PROJECTS: ► https://github.com/Ale9633?tab=repositories ◄
 
 ________________________
 
