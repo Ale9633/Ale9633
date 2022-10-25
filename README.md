@@ -7,9 +7,32 @@
 <a href="https://twitter.com/novalex__" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91788111/197796208-449bd39f-887e-4958-9a2b-ab939bef18cb.svg" alt="novalex__" height="40" width="50" /></a></p></h1>
 <h3>Enthusiastic Blockchain Development Student | Web3, Solidity, Smart-contract, NFT</h3>
 
-- 🔭 I’m currently studying on **Start2impact University**
+<p>Curious and passionate Blockchain Developer, I love to explore emerging technologies by creating the best digital experiences for the user of Today and for the world of Tomorrow.
 
-- 📫 How to reach me **alessionava7@gmail.com**
+Who is Alessio?
+
+Synaesthetic born in 1996, these are the only formalities. For years I have abandoned the tie to take still unexplored paths (strictly Birkenstock at the foot), in line with my aspirations, inclinations and desires, moving away from the path established by society. I am a proud introvert with a curious nature: I push myself every day to live things NOT FOR passion, but WITH passion. 🚀
+
+🧭 As a kid, I was very keen to connect the dots on Puzzle Week! But when it comes to combining your personal and professional path on the "Enigmistic Life", especially if the hunger to know and explore leads you to get your hands dirty in different fields, even very different from each other, I have learned to cultivate resilience and continuous foresight. in my choices. I do not deny that sometimes a non-relational database would be useful to manage my creativity and various skills (for now I am satisfied with MongoDB in my Blockchain projects).
+
+To achieve the goal of making the web a better place, I trust teamwork, the latest technology and a small dose of insight.
+
+🧑🏻‍💻 On a typical day you can find me enthusiastically designing a Dapp or writing the code of a Smart Contract in Solidity, in the company of good music and a cup of tea (which is never one) ...
+And when I notice that the row of cups gets longer, I love surfing, skiing, traveling, reading, practicing yoga and playing chess. 🗺️
+
+________________________
+
+⬇️ You might be interested in taking a peek at my projects. I leave you some links:
+
+GITHUB: ► https://github.com/Ale9633 ◄
+</br>
+TWITTER: ► https://twitter.com/Novalex__ ◄
+
+________________________
+
+I am waiting for you to talk a little about Blockchain and Web3: it would delight me very much to help you! 🙏
+Ale</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
