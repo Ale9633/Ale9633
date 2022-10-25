@@ -24,9 +24,9 @@ ________________________
 
 ⬇️ You might be interested in taking a peek at my projects. I leave you some links:
 
-GITHUB: ► https://github.com/Ale9633 ◄
+GITHUB REPOSITORIES: ► https://github.com/Ale9633 ◄
 </br>
-TWITTER: ► https://twitter.com/Novalex__ ◄
+WEBSITE: ► https://ale9633.github.io/alessionava.com/ ◄
 
 ________________________
 
