@@ -77,7 +77,7 @@ GITHUB PROJECTS: ► https://github.com/Ale9633?tab=repositories ◄
 
 ________________________
 
-I'll wait you to talk a lil about Blockchain and Web3: it would delight me sooo much to help you! 🙏
+I'll wait you to talk a lil about Blockchain and Web3: it would delight me SOOO much to help you! 🙏
 </br>***Ale***</p>
 
 
