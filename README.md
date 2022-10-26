@@ -6,7 +6,8 @@
 <a href="https://instagram.com/https://www.instagram.com/_novalex_/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91788111/197796297-74a23050-ba50-4611-b04e-f77aa6e6ebfc.svg" alt="https://www.instagram.com/_novalex_/" height="40" width="50" /></a>
 <a href="https://twitter.com/novalex__" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91788111/197796208-449bd39f-887e-4958-9a2b-ab939bef18cb.svg" alt="novalex__" height="40" width="50" /></a></p></h1>
 </br>
-<p>Curious and passionate Blockchain Developer, I love to explore emerging technologies by creating the best digital experiences for the user of Today and for the world of Tomorrow.
+
+Curious and passionate **Blockchain Developer**, I love to explore emerging technologies by creating the best digital experiences for the **user of** ***Today*** and for the **world of** ***Tomorrow***.
 
 <h3>Who is Alessio?</h3></br>
 
