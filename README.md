@@ -80,7 +80,7 @@ ________________________
 
 ________________________
 
-I'll wait you to talk a lil about Blockchain and Web3: it would delight me SOOO much to help you! 🙏
+I'll wait you to a small talk about Blockchain and Web3: it would delight me SOOO much to help you! 🙏
 </br>***Ale***</p>
 
 
