@@ -15,7 +15,7 @@ Curious and passionate **Blockchain Developer**, I love to explore emerging tech
 
 </br>Synaesthetic born in 1996, these are the only formalities. For years I've abandoned the tie to take still unexplored paths (strictly dressing Birkenstock), in line with my aspirations, inclinations and desires, moving away from the path established by Society. I'm a **proud introvert** with curious nature: I push myself every day to live things **NOT FOR passion, but WITH passion**. 🚀
 
-🧭 As a child, I was unstoppable to connect dots on *Puzzle Week*! But when it comes to combining your personal and professional path on *"Puzzle Life"*, especially if the hunger to know and explore leads you to get your hands dirty in different fields, even very different from each other, I've learned to raise **resilience** and **continuous** foresight in my choices. I don't deny that sometimes a non-relational database would be useful to manage my creativity and various skills (for now I'm satisfied with MongoDB in my Blockchain projects).
+🧭 As a child, I was unstoppable to connect dots on *Puzzle Week*! But when it comes to combining your personal and professional path on *"Puzzle Life"*, especially if the hunger to know and explore leads you to get your hands dirty in different fields, even very different from each other, I've learned to raise **resilience** and **continuous foresight** in my choices. I don't deny that sometimes a non-relational database would be useful to manage my creativity and various skills (for now I'm satisfied with MongoDB in my Blockchain projects).
 
 To achieve the goal of **making Web a better place**, I trust teamwork, latest technologies and a lil bit of insight.💡
 
