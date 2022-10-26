@@ -7,7 +7,7 @@
 <a href="https://twitter.com/novalex__" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91788111/197796208-449bd39f-887e-4958-9a2b-ab939bef18cb.svg" alt="novalex__" height="40" width="50" /></a></p></h1>
 </br>
 
-Curious and passionate **Blockchain Developer**, I love to explore emerging technologies by creating the best digital experiences for the **User of** ***Today*** and for the **World of** ***Tomorrow***.
+Curious and passionate **Blockchain Developer**, I love to explore emerging technologies by creating the best digital experiences for the **User of** ***Today*** and the **World of** ***Tomorrow***.
 
 <h3>Who is Alessio?</h3></br>
 
