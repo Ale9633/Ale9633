@@ -11,6 +11,8 @@ Curious and passionate **Blockchain Developer**, I love to explore emerging tech
 </br></br>
 <h2>Who is Alessio?</h2>
 
+> *Do what you love, and you will be free; love what you do, and you will be happy.*
+
 Synaesthetic born in 1996, these are the only formalities. For years I have abandoned the tie to take still unexplored paths (strictly Birkenstock at the foot), in line with my aspirations, inclinations and desires, moving away from the path established by society. I am a proud introvert with a curious nature: I push myself every day to live things NOT FOR passion, but WITH passion. 🚀
 
 🧭 As a kid, I was very keen to connect the dots on Puzzle Week! But when it comes to combining your personal and professional path on "Puzzle Life", especially if the hunger to know and explore leads you to get your hands dirty in different fields, even very different from each other, I have learned to cultivate resilience and continuous foresight. in my choices. I do not deny that sometimes a non-relational database would be useful to manage my creativity and various skills (for now I am satisfied with MongoDB in my Blockchain projects).
