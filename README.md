@@ -19,7 +19,7 @@ Curious and passionate **Blockchain Developer**, I love to explore emerging tech
 
 To achieve the goal of making the web a better place, I trust teamwork, the latest technology and a small dose of insight.
 
-🧑🏻‍💻 On a typical day you can find me enthusiastically designing a Dapp or writing the code of a Smart Contract in Solidity, in the company of good music and a cup of tea (which is never one) ...
+🧑🏻‍💻 On a typical day you can find me enthusiastically designing a Dapp or writing the code of a Smart Contract in Solidity, in the company of good music and a cup of tea (which is never one)...
 And when I notice that the row of cups gets longer, I love surfing, skiing, traveling, reading, practicing yoga and playing chess. 🗺️
 
 </br>
