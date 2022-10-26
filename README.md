@@ -9,7 +9,7 @@
 
 Curious and passionate **Blockchain Developer**, I love to explore emerging technologies by creating the best digital experiences for the **User of** ***Today*** and the **World of** ***Tomorrow***.
 </br></br>
-<h2>Who is Alessio?</h2>
+<h3>Who is Alessio?</h3>
 
 > *Do what you Love, and you will be **free**. Love what you Do, and you will be **happy**.*
 
