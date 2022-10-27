@@ -73,7 +73,6 @@ And when I notice that the row of cups gets longer, I love surfing, skiing, trav
 <div align="left">
 <img src="https://user-images.githubusercontent.com/91788111/198359733-63b43db0-1a3a-4dbb-967e-5c32ce21a210.png" alt="uxui certification" width="400" height="280"/>
 </div>
-</br>
 
 ________________________
 
