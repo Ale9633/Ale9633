@@ -21,9 +21,12 @@ To achieve the goal of **making Web a better place**, I trust teamwork, latest t
 
 🧑🏻‍💻 On a typical day you can find me enthusiastically **designing a Dapp** or writing the **Solidity** code of a **Smart Contract**, while listening good music with my best friend: a *Cuppy* of tea (of course is never one)...</br>
 And when I notice that the row of cups gets longer, I love surfing, skiing, traveling, reading, practicing yoga and playing chess. 🗺️
+</br></br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/91788111/199195434-315c693d-fadd-4261-8137-c7b9ec271b89.jpg" alt="road sea" width="75%"/>
+</div>
 
-</br>
-<h2 align="left">Skills:</h2>
+</br></br><h2 align="left">Skills:</h2>
 <h3 align="left">Blockchain:</h3>
 <p>
 <img src="https://user-images.githubusercontent.com/91788111/197836103-0d0ecba7-083b-4f21-b4be-9b9856b41f6d.svg" alt="ethereum logo" width="80" height="80"/>
