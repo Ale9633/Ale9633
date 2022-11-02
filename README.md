@@ -19,6 +19,13 @@ Curious and passionate **Blockchain Developer**, I love to explore emerging tech
 
 To achieve the goal of **making Web a better place**, I trust teamwork, latest technologies and a lil bit of insight.💡
 
+</br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/91788111/199472817-23b0df5d-91cd-47fd-97f4-fe8ab910cf93.png" alt="road sea" width="60%"/>
+</div>
+</br>
+
+
 🧑🏻‍💻 On a typical day you can find me enthusiastically **designing a Dapp** or writing the **Solidity** code of a **Smart Contract**, while listening good music with my best friend: a *Cuppy* of tea (of course is never one)...</br>
 And when I notice that the row of cups gets longer, I love surfing, skiing, traveling, reading, practicing yoga and playing chess. 🗺️
 </br></br>
