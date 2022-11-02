@@ -91,6 +91,7 @@ ________________________
 **WEBSITE**: ► https://ale9633.github.io/alessionava.com/ ◄
 </br>
 **GITHUB PROJECTS**: ► https://github.com/Ale9633?tab=repositories ◄
+</br>
 **LINKEDIN**: ► https://www.linkedin.com/in/alessio-nava/ ◄
 
 ________________________
