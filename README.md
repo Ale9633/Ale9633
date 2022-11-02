@@ -21,7 +21,7 @@ To achieve the goal of **making Web a better place**, I trust teamwork, latest t
 
 </br>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/91788111/199472817-23b0df5d-91cd-47fd-97f4-fe8ab910cf93.png" alt="road sea" width="50%"/>
+<img src="https://user-images.githubusercontent.com/91788111/199472817-23b0df5d-91cd-47fd-97f4-fe8ab910cf93.png" alt="laptop" width="50%"/>
 </div>
 </br>
 
