@@ -48,7 +48,6 @@ And when I notice that the row of cups gets longer, I love surfing, skiing, trav
 <p>
 <img src="https://user-images.githubusercontent.com/91788111/197833240-a89aa1fa-f43d-4ca2-987a-f92defb3b13d.svg" alt="html5 logo" width="80" height="80"/>
 <img src="https://user-images.githubusercontent.com/91788111/197833132-bc7dbc84-355b-4366-90a8-b1db64d20aa6.svg" alt="css3 logo" width="80" height="80"/>
-<img src="https://user-images.githubusercontent.com/91788111/197820712-72cbe91f-5f5f-4174-ad9d-9a5692fa7432.svg" alt="javascript logo" width="80" height="80"/>
 </p>
 <h3 align="left">Backend:</h3>
 <p><img src="https://user-images.githubusercontent.com/91788111/197832451-e45509f3-f5a3-461a-b407-43f116bf4fae.svg" alt="python logo" width="80" height="80"/>
