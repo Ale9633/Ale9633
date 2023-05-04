@@ -68,11 +68,6 @@ And when I notice that the row of cups gets longer, I love kitesurfing, skiing, 
 <img src="https://user-images.githubusercontent.com/91788111/197826945-bdc96954-df5d-4636-9b1e-ff59c5137594.svg" alt="photoshop logo" width="80" height="80"/>
 <img src="https://user-images.githubusercontent.com/91788111/197827217-d480d3a7-e2e1-4654-a7f8-3beb2f29b24b.svg" alt="indesign logo" width="80" height="80"/>
 </p>
-<h3 align="left">Animation:</h3>
-<p>
-<img src="https://user-images.githubusercontent.com/91788111/197827135-235a5598-cb83-4db8-91b1-018d3186112a.svg" alt="after effect logo" width="80" height="80"/>
-<img src="https://user-images.githubusercontent.com/91788111/197820141-0e1c1541-7ee3-4224-814a-ef8a9feade4f.svg" alt="invision logo" width="80" height="80"/>
-</p>
 <h3 align="left">Git:</h3>
 <p>
 <img src="https://user-images.githubusercontent.com/91788111/197811431-0ba6665e-fd4b-4499-b500-cabf331136a9.svg" alt="git logo" width="80" height="80"/>
