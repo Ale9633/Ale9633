@@ -71,11 +71,11 @@ And when I notice that the row of cups gets longer, I love kitesurfing, skiing, 
 </br>
 <h2 align="left">Certifications:</h2>
 <div align="left">
-  <img src="https://user-images.githubusercontent.com/91788111/198359733-63b43db0-1a3a-4dbb-967e-5c32ce21a210.png" alt="uxui certification" width="420" height="300"/>
+  <img src="https://user-images.githubusercontent.com/91788111/198359733-63b43db0-1a3a-4dbb-967e-5c32ce21a210.png" alt="uxui certification" width="422" height="300"/>
 </div>
 <div align="left">
-<img src="https://user-images.githubusercontent.com/91788111/233286502-1d7fcf9a-f05f-42ab-98e3-7de4c3014e1c.png" alt="web3 certification" width="420" height="300"/>
-  <img src="https://user-images.githubusercontent.com/91788111/233286064-a3172dc0-3b9d-4fd0-b0b7-57656626f3e7.png" alt="cybersecurity certification" width="420" height="300"/>
+<img src="https://user-images.githubusercontent.com/91788111/233286502-1d7fcf9a-f05f-42ab-98e3-7de4c3014e1c.png" alt="web3 certification" width="422" height="300"/>
+  <img src="https://user-images.githubusercontent.com/91788111/233286064-a3172dc0-3b9d-4fd0-b0b7-57656626f3e7.png" alt="cybersecurity certification" width="422" height="300"/>
 </div>
 <div align="center">
   <a href="https://bscscan.com/address/0x07885d3ebba435b4812ab01ab9a56f0e1db3280a">
