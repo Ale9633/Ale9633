@@ -80,7 +80,7 @@ And when I notice that the row of cups gets longer, I love kitesurfing, skiing, 
 </br>
 <div align="center">
   <a href="https://bscscan.com/address/0x07885d3ebba435b4812ab01ab9a56f0e1db3280a">
-    <img src="https://github.com/Ale9633/Ale9633/assets/91788111/d8908e91-e0d5-4b86-974f-4b03e3331537" alt="web3 certification" width="300" height="300"/>
+    <img src="https://github.com/Ale9633/Ale9633/assets/91788111/d8908e91-e0d5-4b86-974f-4b03e3331537" alt="web3 certification" width="200" height="200"/>
   </a>
 </div>
 
